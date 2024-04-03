@@ -4,7 +4,7 @@
 "description": "Test asset list schema",
 "version": "1.0",
 "network": "public",
-"feedback": "piyal@stellar.org",
+"feedback": "https://piyalbasu.org",
 "assets": [
 {
 "code": "yXLM",
