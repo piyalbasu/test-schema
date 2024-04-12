@@ -3,7 +3,7 @@
 "provider": "PiyalBasu",
 "description": "Test asset list schema",
 "version": "1.0",
-"network": "public",
+"network": "test",
 "feedback": "https://piyalbasu.org",
 "asset": [
 {
